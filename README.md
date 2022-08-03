@@ -1,4 +1,5 @@
 ## ctfd_create_users
+CTFd批量添加用户
 
 本脚本功能是为CTFD批量添加用户，并自动为每个用户生成md5密码。
 
