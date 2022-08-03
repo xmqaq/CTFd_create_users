@@ -9,9 +9,11 @@
 2.需要登录当前CTFD管理员账户，在添加用户处抓取对应cookie和CSRF-token
 ![image](https://user-images.githubusercontent.com/50257557/182524219-70e57081-1cf8-4022-8db7-0320fafb0056.png)
 
-输入必要信息抓取数据包
+输入必要信息
 
 ![image](https://user-images.githubusercontent.com/50257557/182524234-35d06b86-8e92-4971-b3c5-ddd7c3929a4d.png)
+
+使用burp抓取数据包
 
 ![image](https://user-images.githubusercontent.com/50257557/182524263-48c2a1c7-1ac4-4dc3-b42a-f3a513a01192.png)
 
